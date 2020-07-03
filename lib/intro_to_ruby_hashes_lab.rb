@@ -4,7 +4,6 @@ end
 
 def my_hash
   {:hash => "meow"}
-  
 end
 
 def pioneer
